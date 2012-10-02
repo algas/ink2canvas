@@ -8,3 +8,7 @@ mockito/*
 .settings/org.eclipse.core.resources.prefs
 .pydevproject
 *~
+build/
+dist/
+*.egg/
+*.egg-info/
